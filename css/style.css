@@ -78,5 +78,7 @@ body {
 .footer-copyright {
 	float: right;
 	width: 180px;
-
+}
+.main-navigation li {
+	list-style-type: none;
 }
